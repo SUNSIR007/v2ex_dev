@@ -3,6 +3,9 @@
     <img src="/V2exOS/Assets.xcassets/AppIcon.appiconset/icon_256.png" alt="V2exOS" title="V2exOS" width="100" />
   </a>
   <h1 align="center">V2exOS</h1>
+  <div align="center">
+    <a href="https://apps.apple.com/cn/app/v2exos/id6443544914?mt=12"><img alt="iTunes App Store" src="https://img.shields.io/itunes/v/6443544914?logo=appstore&label=Mac%20App%20Store&labelColor=white"></a>
+  </div>
   <div align="center">一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端</div>
 </p>
 
