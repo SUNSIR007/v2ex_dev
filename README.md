@@ -49,8 +49,7 @@
 
 **高级功能**
 
-- [x] Proxy 代理![icon](https://github.com/user-attachments/assets/fcfb66e7-7579-4b32-b6ce-df6fde3b95d1)
-
+- [x] Proxy 代理
 
 ## 帮助
 
